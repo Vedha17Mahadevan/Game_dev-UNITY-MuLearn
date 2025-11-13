@@ -1,7 +1,7 @@
 # Installing Unity Engine 6 & Exploring the Interface  
 
-## **Project Name
-MyProject_Vedha**  
+## Project Name
+MyProject_Vedha  
 
 ## Unity Version Used  
 **Unity 6.0 (6000.0.23f1)**
